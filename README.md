@@ -1,2 +1,3 @@
 # perpetualTwisted
-通称パペッツgitignoreunity
+通称パペッツ
+gitignore:unityで作成
